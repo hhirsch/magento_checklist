@@ -1,4 +1,5 @@
 * Magento Checklists
 ** How to get a product visible in the frontend
 - https://github.com/hhirsch/magento_product_checklist
+** How to get a translation to apply
 - https://github.com/hhirsch/magento_translation_checklist
